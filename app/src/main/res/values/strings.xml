@@ -7,4 +7,7 @@
     <string name="hint_away">Type away name</string>
     <string name="label_start">Start Game</string>
     <string name="label_developed_by">Development by Baccan</string>
+    <string name="btn_restart">Restart</string>
+
+    <string name="message_to_share">The game between %2$s and %1$s as %3$d x %4$d</string>
 </resources>
